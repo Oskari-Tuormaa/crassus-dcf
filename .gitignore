@@ -1,0 +1,4 @@
+*.egg-info/
+*.ipynb
+/.vscode
+/crassus_dcf/__pycache__
